@@ -1,0 +1,53 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+*//*@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+*/@font-face {
+    font-family: 'Bebas Neue';
+    src: url('../font/BebasNeueRegular.eot');
+    src: url('../font/BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+        url('../font/BebasNeueRegular.woff2') format('woff2'),
+        url('../font/BebasNeueRegular.woff') format('woff'),
+        url('../font/BebasNeueRegular.ttf') format('truetype'),
+        url('../font/BebasNeueRegular.svg#BebasNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('../font/Lato-BoldItalic.eot');
+    src: url('../font/Lato-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../font/Lato-BoldItalic.woff2') format('woff2'),
+        url('../font/Lato-BoldItalic.woff') format('woff'),
+        url('../font/Lato-BoldItalic.ttf') format('truetype'),
+        url('../font/Lato-BoldItalic.svg#Lato-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+.resault-1 {
+font-family: 'Open Sans', sans-serif;
+}
+.resault-2 {
+font-family: 'Bebas Neue', sans-serif;
+}
+.resault-3 {
+font-family: 'Lato', sans-serif;
+}
+.resault-4 {
+font-family: 'Lobster', sans-serif;
+}
