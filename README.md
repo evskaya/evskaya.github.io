@@ -12,3 +12,6 @@
 [Практика](https://github.com/evskaya/evskaya.github.io/tree/main/lesson_14) - шапка сайта
 
 [Урок 14](https://github.com/evskaya/evskaya.github.io/tree/main/git-fonts) - подключение шрифтов
+
+
+[Урок 15](https://github.com/evskaya/evskaya.github.io/tree/main/lesson_15) - верстка первой страницы
