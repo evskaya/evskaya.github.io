@@ -18,3 +18,5 @@
 
 
 [Урок 15](https://github.com/evskaya/evskaya.github.io/tree/main/homework%2015) - эффекты принаведении и затемнение
+
+[Урок 16](https://github.com/evskaya/evskaya.github.io/tree/main/part_16) - эффекты кнопок и адаптация к размерам экрана
