@@ -23,4 +23,4 @@
 
 [Урок 16](https://github.com/evskaya/evskaya.github.io/upload/main) - установка слайдера
 
-[Практика](https://github.com/evskaya/evskaya.github.io/tree/main/урок%2017)
+[Практика](https://github.com/evskaya/evskaya.github.io/tree/main/урок%2017) - верстка слайдера
