@@ -21,4 +21,4 @@
 
 [Практика](https://github.com/evskaya/evskaya.github.io/tree/main/part_16) - эффекты кнопок и адаптация к размерам экрана
 
-[Урок 16Ъ(https://github.com/evskaya/evskaya.github.io/upload/main) - установка слайдера
+[Урок 16](https://github.com/evskaya/evskaya.github.io/upload/main) - установка слайдера
