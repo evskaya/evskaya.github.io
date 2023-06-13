@@ -26,3 +26,5 @@
 [Практика](https://github.com/evskaya/evskaya.github.io/tree/main/урок%2017) - верстка слайдера
 
 [Практика](https://github.com/evskaya/evskaya.github.io/commit/e2cbe9e090c5b4b3989780dc9aa3070f2b67e311) - настройка модального окна
+
+[Табы и аккордеон](https://github.com/evskaya/evskaya.github.io/tree/main/accordeon) - табы и аккордеон
