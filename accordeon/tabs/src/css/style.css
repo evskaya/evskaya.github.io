@@ -1,0 +1,137 @@
+body {
+	background-color: #1e1e1e;
+}
+input:focus {
+	outline: none;
+}
+.container {
+	padding-top: 30px;
+}
+.tab-head {
+	margin-left: 30px;
+}
+.nav-tabs {
+	border-bottom: none;
+}
+.nav-tabs .nav-item .nav-link.active {
+ background-color: blue;
+ color: white;
+}
+.nav-tabs .nav-item .nav-link {
+	 color: black;
+	 background-color: white;
+	 margin-bottom: 0; 
+  border: none;
+}
+.nav-link {
+	margin-bottom: 0;
+	margin-left: 10px;
+}
+form {
+  border-radius: 5px;
+}
+.form-control-input {
+display: block;
+width: 450px;
+height: 50px;
+margin-top: 40px;
+margin-left: 50px;
+border: none;
+border-radius: 5px;
+background-color: #191818;
+color: white;
+padding: 10px;
+}
+.input-parol {
+	margin-top: 20px;
+}
+.reg-form {
+	 width: 600px;
+  height: 400px;
+  border-radius: 5px;
+  background-color: #000000;
+  border: 20px solid blue;
+  }
+.remind-1 {
+  color: red;
+  font-size: 14px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.remind-2 {
+	padding-right: 0;
+	text-align: center;
+}
+.remind {
+	margin-top: 70px;
+}
+.tick {
+	padding-left: 0;
+}
+.remind-3 {
+	/*display: inline-block;*/
+  color: #c0c0c0;
+  padding-left: 0;
+  font-size: 14px;
+  padding-top: 3px;
+}
+.btn {
+	border-radius: 0;
+	width: 100px;
+}
+.ribbon-right {
+ position: relative; 
+	top: -35px;
+	right: 0px;
+	left: 448px;
+ width: 140px;
+ height: 40px;
+	background: red;
+	padding: 5px 20px;
+	box-shadow: 1px 1px 3px #878787;
+	color: white;
+}
+.ribbon-right:after {
+	content: '';
+	position: relative;
+	top: -7px;
+	left: 60px;
+	width: 0;
+	height: 0;
+	line-height: 0;
+	border-right: 20px solid transparent;
+	border-top: 10px solid #c8c8c8;
+}
+.enter {
+	text-align: left;
+	padding-top: 0px;
+	font-size: 22px;
+}
+.ribbon-right-2 {
+	position: relative; 
+	top: 120px;
+	right: 0px;
+	left: 348px;
+ width: 240px;
+ height: 40px;
+	background: red;
+	padding: 5px 20px;
+	box-shadow: 1px 1px 3px #878787;
+	color: white;
+}
+.ribbon-right-2:after {
+	content: '';
+	position: relative;
+	top: -7px;
+	left: 110px;
+	width: 0;
+	height: 0;
+	line-height: 0;
+	border-right: 20px solid transparent;
+	border-top: 10px solid #c8c8c8;
+}
+.enter-2 {
+	text-align: left;
+	padding-top: 0px;
+	font-size: 22px;
+}
